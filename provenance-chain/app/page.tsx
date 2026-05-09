@@ -194,6 +194,7 @@ export default function Home() {
           <div className="ctas">
             <Link href="/submit" className="btn-a">Record a Paper</Link>
             <Link href="/verify" className="btn-b">Verify a Document</Link>
+            <Link href="/update" className="btn-b">Manage Status</Link>
           </div>
 
           <div className="orb-zone">
